@@ -1,10 +1,6 @@
-# alpha_news
-
-A new Flutter project of News app.
-
 # ✨ Alpha News - Flutter News App
 
-A modern, feature-rich news application built with Flutter that delivers the latest headlines and articles from various categories.
+📱 A modern, feature-rich news application built with Flutter that delivers the latest headlines and articles from various categories.
 
 ## ✨ Features
 
