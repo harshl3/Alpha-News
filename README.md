@@ -2,17 +2,33 @@
 
 A new Flutter project of News app.
 
-## Getting Started
+# ✨ Alpha News - Flutter News App
 
-This project is a starting point for a Flutter application.
+A modern, feature-rich news application built with Flutter that delivers the latest headlines and articles from various categories.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🌍 **Global News Coverage** - Get the latest news from around the world
+- 🎯 **Multiple Categories** - Browse news by categories like World, Business, Health, Sports, and more
+- 🔍 **Search Functionality** - Find news articles on any topic
+- 📱 **Responsive Design** - Works on mobile devices smoothly
+- 🚀 **Fast & Smooth** - Optimized for performance with smooth animations
+- 🔄 **Pull-to-Refresh** - Stay updated with the latest news
+- 🌓 **Modern UI/UX** - Clean and intuitive interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
 
-this is new readme line 
+- **Framework**: Flutter
+- **Backend**: News API integrated
+- **HTTP Client**: http package for API calls
+- **UI Components**: Material Design & Cupertino widgets
+- **Carousel**: carousel_slider for featured news
+- **WebView**: webview_flutter for article viewing
+
+## 📱 Screens
+
+- Home screen with featured news carousel
+- Category-based news listing
+- Search functionality
+- Article detail view with WebView
+
